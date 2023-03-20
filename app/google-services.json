@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529170100560",
+    "firebase_url": "https://demeterdb-100d9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "demeterdb-100d9",
+    "storage_bucket": "demeterdb-100d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529170100560:android:3d09710a36e9cc7a31fc55",
+        "android_client_info": {
+          "package_name": "com.example.demeterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529170100560-ls6eol4r4pirson7dia822ip124mm3u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsvtNKE7SN8sJlvwETL4hAzOwRhaf_Mck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529170100560-ls6eol4r4pirson7dia822ip124mm3u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
